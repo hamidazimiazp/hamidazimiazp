@@ -1,4 +1,6 @@
-<span>Random dev joke for you🤣😍</span><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?borderColor=grey&theme=default&bgColor=transparency" alt="README Jokes"></a>
-<br> 
- 
+
+### Stats
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=browniebroke&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=browniebroke&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=browniebroke&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
